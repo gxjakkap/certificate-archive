@@ -3,7 +3,7 @@ A repository to keep soft copy of my certificates from most competition I've eve
 
 
 
-## Primary - Elementary
+## [Primary - Elementary](https://github.com/gxjakkap/certificate-archive/tree/main/primary-elementary)
 
 This folder contains all certificate from  my primary school time period. Highlights being certificates from [งานศิลปหัตถกรรมนักเรียน](https://sillapa.net/home/) .
 
@@ -17,7 +17,7 @@ This folder contains all certificate from  my primary school time period. Highli
 
 
 
-## Secondary
+## [Secondary](https://github.com/gxjakkap/certificate-archive/tree/main/secondary)
 
 This folder contains all certificate from my secondary time period.
 
